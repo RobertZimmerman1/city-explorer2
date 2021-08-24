@@ -25,4 +25,6 @@ class Table extends Component {
   }
 }
 
+// code to push a commit
+
 export default Table;
